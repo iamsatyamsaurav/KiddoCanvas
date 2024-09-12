@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <external-path
+        name="captured"
+        path="Android/data/com.example.kidsdrawingapp/cache/"
+
+    />
+
+    <!--defining a path on the device where your app is allowed to save file -->
+
+</Paths>
